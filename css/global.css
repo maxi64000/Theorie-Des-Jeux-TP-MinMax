@@ -1,0 +1,51 @@
+body {
+	margin: 5px 0px 0px 0px;
+}
+
+div {
+	float: left;
+	width: 100%;
+	margin: 0px 5px 0px 5px;
+}
+
+.globalDiv {
+	margin: 0px 0px 50px 0px;
+}
+
+p {
+	float: left;
+	width: 100%;
+	text-align: center;
+	border: 1px solid black;
+	margin: 0px 5px 0px 5px;
+}
+
+#max p {
+	background: green;
+}
+
+
+
+label, input {
+	width: 50%;
+	margin: 0px 25% 0px 25%;
+	float: left;
+	text-align: center;
+	padding: 5px;
+}
+
+label {
+	margin-top: 25px;
+}
+
+input[type='submit'] {
+	width: 50%;
+	margin: 25px 25% 0px 25%;
+	float: left;
+	padding: 5px;
+}
+
+#container {
+	width: 95%;
+	float: left;
+}
